@@ -126,6 +126,6 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 - *2020.08* OnMicro Scholarship
 
 # 🎓 Experiences
-- *2025.06 - Now*, Assistant Researcher, School of Electrical Automation and Information Engineering, Tianjin University
+- *2023.06 - Now*, Assistant Researcher, School of Electrical Automation and Information Engineering, Tianjin University
 - *2018.09 - 2023.06*, Ph.D, Tianjin University, Information and Communication Engineering
 - *2014.09 - 2018.06*, B.E., Tianjin University, Internet of Things Engineering
