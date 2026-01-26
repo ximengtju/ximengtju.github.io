@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👩‍🎓 About Me
-I am an assistant researcher at the [School of Electrical Automation and Information Engineering](https://seea.tju.edu.cn/), Tianjin University (天津大学电气自动化与信息工程学院), China, and a member of the [Artificial Intelligence and Marine Information Processing Laboratory](http://aimip.tju.edu.cn/) (人工智能与海洋信息处理实验室). Prior to this, I earned both my B.E. and Ph.D. degrees from Tianjin University, China, under the supervision of [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1386/4830.htm) (杨嘉琛).
+I am an assistant researcher at the [School of Electrical Automation and Information Engineering](https://seea.tju.edu.cn/), Tianjin University (天津大学电气自动化与信息工程学院), China, and a member of the [Artificial Intelligence and Marine Information Processing Laboratory](http://aimip.tju.edu.cn/) (人工智能与海洋信息处理实验室). Prior to this, I earned my B.E. and Ph.D. degrees from Tianjin University, under the supervision of [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1386/4830.htm) (杨嘉琛).
 
 My current research interests include **Post-quantum Cryptography Chip** and **Fully Homomorphic Encryption**. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc. I hold several academic positions such as TPC Member of TrustCom 2025 and Workshop Chair of ICA3PP 2023.
 
@@ -105,9 +105,9 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
-# 💼 Projects and Foundations
+# 📋 Projects and Foundations
 
-# 📋 Services
+# 💼 Services
 - *2025.11*, TPC Member, TrustCom 2025
 - *2023.10*, Workshop Chair, ICA3PP 2023
 
