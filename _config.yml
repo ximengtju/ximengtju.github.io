@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hankai Liu"
+title                    : "Meng Xi"
 description              : # "None"
-repository               : "LIUHankai/LIUHankai.github.io"
+repository               : "Ximeng12/ximeng.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hankai Liu (刘涵凯)"
+  name             : "Meng Xi (奚萌)"
   avatar           : "images/512x512.png"
   bio              : "Lecturer 南开大学讲师"
   location         : "Tianjin, China"
-  employer         : "Nankai University"
+  employer         : "Tianjin University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FlQRF88AAAAJ"
   email            : "lhk [at] nankai.edu.cn"
