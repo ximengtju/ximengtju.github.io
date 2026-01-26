@@ -27,9 +27,9 @@ author:
   location         : "Tianjin, China"
   employer         : "Tianjin University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=FlQRF88AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=rCVCACUAAAAJ"
   email            : "ximeng [at] tju.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Hankai-Liu"
+  researchgate     : # "https://www.researchgate.net/profile/Hankai-Liu"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ximengtju"
+  github           : # "ximengtju"
   google_plus      :
   keybase          :
   instagram        :
