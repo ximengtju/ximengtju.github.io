@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Meng Xi"
 description              : # "None"
-repository               : "Ximeng12/ximeng.github.io"
+repository               : "ximengtju/ximeng.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Meng Xi (奚萌)"
   avatar           : "images/512x512.png"
-  bio              : "Lecturer 南开大学讲师"
+  bio              : "Assistant Researcher"
   location         : "Tianjin, China"
   employer         : "Tianjin University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=FlQRF88AAAAJ"
-  email            : "lhk [at] nankai.edu.cn"
+  email            : "ximeng [at] tju.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Hankai-Liu"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LIUHankai"
+  github           : "ximengtju"
   google_plus      :
   keybase          :
   instagram        :
