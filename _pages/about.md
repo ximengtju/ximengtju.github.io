@@ -105,7 +105,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 </div>
 </div>
 -->
-→ [Full List of Publications](https://www.researchgate.net/profile/Meng-Xi/research)
+→ [Full List of Publications](https://www.researchgate.net/profile/Meng-Xi-9/research)
 
 # 📋 Projects and Foundations
 - *2025.01-2027.12*, Young Scientists Fund of the National Natural Science Foundation of China(C)
