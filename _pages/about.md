@@ -20,9 +20,9 @@ redirect_from:
 # 👩‍🎓 About Me
 I am an assistant researcher at the [School of Electrical Automation and Information Engineering](https://seea.tju.edu.cn/), Tianjin University (天津大学电气自动化与信息工程学院), China, and a member of the [Artificial Intelligence and Marine Information Processing Laboratory](http://aimip.tju.edu.cn/) (人工智能与海洋信息处理实验室). Prior to this, I earned my B.E. and Ph.D. degrees from Tianjin University, under the supervision of [Prof. Jiachen Yang](https://seea.tju.edu.cn/info/1386/4830.htm) (杨嘉琛).
 
-My current research interests include **Post-quantum Cryptography Chip** and **Fully Homomorphic Encryption**. I have published over 20 papers at the top-tier international conferences and journals, including ACM IMWUT, IEEE TMC, IEEE TWC, IEEE TAP, etc. I hold several academic positions such as TPC Member of TrustCom 2025 and Workshop Chair of ICA3PP 2023.
+My current research interests include **Marine Information Processing**, **Intelligent Underwater Unmanned Systems**, **Reinforcement Learning**, and **Embodied Intelligence**. I have published over 20 papers in top-tier international journals, including IEEE TNNLS, IEEE TII, IEEE TITS, and IEEE TASE. I hold several academic positions, including Member of IEEE BTS and Workshop Chair for RoSeN 2026.
 
-📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Cryptographic Hardware Acceleration**, **FHE Applications**, etc. Drop me an email if you are interested.
+📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Autonomous Underwater Vehicle**, **Embodied Intelligence**, etc. Drop me an email if you are interested.
 
 # 🔥 News
 - *2025.04*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by IEEE TMC.
@@ -106,24 +106,29 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 → [Full List of Publications](https://www.researchgate.net/profile/Hankai-Liu/research)
 
 # 📋 Projects and Foundations
-
+- *2025.01-2027.12*, Young Scientists Fund of the National Natural Science Foundation of China(C)
+- *2024.01-2025.12*, Postdoctoral Fellowship Program of China Postdoctoral Science Foundation(C)
+- *2024.06-2026.06*, China Postdoctoral Science Foundation & Tianjin Municipality Joint Funding (Special Funding)
+- *2023.12-2025.12*，China Postdoctoral Science Foundation, 74th Batch General Program
+- *2024.01-2024.12*，Tianjin University Independent Innovation Fund
+- *2024.01-2024.12*，Tianjin University Young Faculty Independent Research Fund
+- *2023.01-2023.12*，Tianjin University Independent Innovation Fund
 # 💼 Services
-- *2025.11*, TPC Member, TrustCom 2025
-- *2023.10*, Workshop Chair, ICA3PP 2023
-
-# 🎤 Invited Talks
-- *2024.10*, PmTrack: Enabling Personalized mmWave-based Human Tracking, UbiComp 2024
-- *2024.08*, mmWave Radar-based Multi-person Tracking and Identification, HHME 2024
+- *2026.04*, Workshop Chair, RoSeN 2026
+- *2025.09*, CGIS Member, 2025
+- *2023.12*, IEEE BTSC Member, 2024
 
 # 👩‍🏫 Teaching
-- *2025.Fall*, Computer Hardware Fundamentals
+- *2025.Fall*, Introduction to Electronic Information
+- *2026.Spring, High-Frequency Electronic Circuits
 
 # 🏆 Honors and Awards
-- *2025.05* Huawei Scholarship
-- *2024.07* Graduated from the 1st National Training for College Cybersecurity Teachers
-- *2023.12* Best Paper Award of IEEE Cybermatics Congress 2023
-- *2021.01* Outstanding Graduates of Tianjin University
-- *2020.08* OnMicro Scholarship
+- *2025.11* Postdoctoral Performance Evaluation, Class B
+- *2022.08* National Scholarship for Postgraduate Students
+- *2024.09* Tianjin Postdoctoral Innovation Post (First Batch)
+- *2024.09* Outstanding Mentor of Tianjin University 
+- *2023.06* Outstanding Doctoral Degree Dissertation of Tianjin University
+- *2019.10* Ten Outstanding Young Scholars of the School of Electrical and Information Engineering, Tianjin University
 
 # 🎓 Experiences
 - *2023.06 - Now*, Assistant Researcher, School of Electrical Automation and Information Engineering, Tianjin University
