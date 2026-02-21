@@ -25,9 +25,11 @@ My current research interests include **Marine Information Processing**, **Intel
 📢📢 <span style="color:red;">Our group is seeking research assistants to work on multiple projects related to **Autonomous Underwater Vehicle**, **Embodied Intelligence**, etc. Drop me an email if you are interested.
 
 # 🔥 News
-- *2025.04*: Our paper entitled "MHTrack: mmWave-based Mobile Hand Tracking" was accepted by IEEE TMC.
-- *2025.04*: Our paper entitled "Multi-user Behavioral Privacy Filtering for mmWave Radar Sensing" was accepted by IEEE TMC.
-
+- *2025.09*: Our paper entitled "AUV Path Planning and Object Tracking Algorithm Based on Reinforcement Learning Under Point Cloud Observation" was accepted by IEEE TCE.
+- *2025.09*: Our paper entitled "T2-cGAN: A new modeling paradigm for joint DEM spatial interpolation and super-resolution reconstruction" was accepted by Neurocomputing.
+- *2025.02*: Our paper entitled "An LLM-Assisted AUV 3-D Path Planning Scheme Under Ocean Current Interference via Reinforcement Learning" was accepted by IEEE IoTJ.
+- *2025.01*: Our paper entitled "An Expert Experience-Enhanced Security Control Approach for AUVs of the Underwater Transportation Cyber-Physical Systems" was accepted by IEEE IITS.
+  
 # 📘 Selected Publications 
 ## 🏃‍♀️ mmWave Sensing
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IMWUT 2023</div><img src='images/pmtrack.png' alt="sym" width="100%"></div></div>
