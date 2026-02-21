@@ -120,7 +120,7 @@ Yongtao Ma (supervisor), **Hankai Liu**, Yunlei Zhang *et al.*
 
 # 👩‍🏫 Teaching
 - *2025.Fall*, Introduction to Electronic Information
-- *2026.Spring, High-Frequency Electronic Circuits
+- *2026.Spring*, High-Frequency Electronic Circuits
 
 # 🏆 Honors and Awards
 - *2025.11* Postdoctoral Performance Evaluation, Class B
